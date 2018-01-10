@@ -1,0 +1,11 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "golang.org/x/net/websocket",
+			"revision": ""
+		}
+	],
+	"rootPath": "naivechain_demo"
+}
